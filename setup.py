@@ -8,7 +8,7 @@ setup(
   author       = 'Larxel',
   author_email = 'andrew.mvd@gmail.com',
   url          = 'https://github.com/user/reponame',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/user/reponame/archive/v_01.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/Larxel/open_deployment/archive/0.0.1.tar.gz',    # I explain this later on
   keywords     = ['deployment', 'cloud', 'api'],
   install_requires = [],
   classifiers      = [
